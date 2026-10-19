@@ -1,0 +1,13 @@
+{
+  "name": "scale-observability-0009",
+  "version": "1.0.0",
+  "description": "Synthetic observability helper plugin 0009 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "observability",
+    "scale-test"
+  ]
+}

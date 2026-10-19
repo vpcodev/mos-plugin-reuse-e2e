@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scale-testing-0030",
+  "version": "1.0.0",
+  "description": "Synthetic testing helper plugin 0030 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "scale-test"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "scale-data-0013",
+  "version": "1.0.0",
+  "description": "Synthetic data helper plugin 0013 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "data",
+    "scale-test"
+  ]
+}

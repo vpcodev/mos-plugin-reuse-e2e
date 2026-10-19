@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scale-observability-0079",
+  "version": "1.0.0",
+  "description": "Synthetic observability helper plugin 0079 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "observability",
+    "scale-test"
+  ]
+}

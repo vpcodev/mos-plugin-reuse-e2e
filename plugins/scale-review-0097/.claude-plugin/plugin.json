@@ -1,0 +1,13 @@
+{
+  "name": "scale-review-0097",
+  "version": "1.0.0",
+  "description": "Synthetic review helper plugin 0097 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "review",
+    "scale-test"
+  ]
+}

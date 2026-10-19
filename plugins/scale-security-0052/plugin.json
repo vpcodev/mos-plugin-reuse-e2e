@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scale-security-0052",
+  "version": "1.0.0",
+  "description": "Synthetic security helper plugin 0052 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "scale-test"
+  ]
+}

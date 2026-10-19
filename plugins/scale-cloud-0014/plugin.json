@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scale-cloud-0014",
+  "version": "1.0.0",
+  "description": "Synthetic cloud helper plugin 0014 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cloud",
+    "scale-test"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scale-devops-0016",
+  "version": "1.0.0",
+  "description": "Synthetic devops helper plugin 0016 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "devops",
+    "scale-test"
+  ]
+}

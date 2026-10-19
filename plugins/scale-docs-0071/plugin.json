@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scale-docs-0071",
+  "version": "1.0.0",
+  "description": "Synthetic docs helper plugin 0071 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "docs",
+    "scale-test"
+  ]
+}

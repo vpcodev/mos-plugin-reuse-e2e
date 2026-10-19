@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scale-frontend-0015",
+  "version": "1.0.0",
+  "description": "Synthetic frontend helper plugin 0015 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+  "author": {
+    "name": "vpcodev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "frontend",
+    "scale-test"
+  ]
+}

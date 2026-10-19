@@ -1,0 +1,608 @@
+{
+  "name": "mos-plugin-reuse-e2e",
+  "owner": {
+    "name": "vpcodev"
+  },
+  "plugins": [
+    {
+      "name": "scale-docs-0001",
+      "source": "./plugins/scale-docs-0001",
+      "description": "Synthetic docs helper plugin 0001 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0002",
+      "source": "./plugins/scale-security-0002",
+      "description": "Synthetic security helper plugin 0002 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0003",
+      "source": "./plugins/scale-data-0003",
+      "description": "Synthetic data helper plugin 0003 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0004",
+      "source": "./plugins/scale-cloud-0004",
+      "description": "Synthetic cloud helper plugin 0004 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0005",
+      "source": "./plugins/scale-frontend-0005",
+      "description": "Synthetic frontend helper plugin 0005 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0006",
+      "source": "./plugins/scale-devops-0006",
+      "description": "Synthetic devops helper plugin 0006 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0007",
+      "source": "./plugins/scale-review-0007",
+      "description": "Synthetic review helper plugin 0007 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0008",
+      "source": "./plugins/scale-release-0008",
+      "description": "Synthetic release helper plugin 0008 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0009",
+      "source": "./plugins/scale-observability-0009",
+      "description": "Synthetic observability helper plugin 0009 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0010",
+      "source": "./plugins/scale-testing-0010",
+      "description": "Synthetic testing helper plugin 0010 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-docs-0011",
+      "source": "./plugins/scale-docs-0011",
+      "description": "Synthetic docs helper plugin 0011 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0012",
+      "source": "./plugins/scale-security-0012",
+      "description": "Synthetic security helper plugin 0012 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0013",
+      "source": "./plugins/scale-data-0013",
+      "description": "Synthetic data helper plugin 0013 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0014",
+      "source": "./plugins/scale-cloud-0014",
+      "description": "Synthetic cloud helper plugin 0014 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0015",
+      "source": "./plugins/scale-frontend-0015",
+      "description": "Synthetic frontend helper plugin 0015 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0016",
+      "source": "./plugins/scale-devops-0016",
+      "description": "Synthetic devops helper plugin 0016 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0017",
+      "source": "./plugins/scale-review-0017",
+      "description": "Synthetic review helper plugin 0017 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0018",
+      "source": "./plugins/scale-release-0018",
+      "description": "Synthetic release helper plugin 0018 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0019",
+      "source": "./plugins/scale-observability-0019",
+      "description": "Synthetic observability helper plugin 0019 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0020",
+      "source": "./plugins/scale-testing-0020",
+      "description": "Synthetic testing helper plugin 0020 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-docs-0021",
+      "source": "./plugins/scale-docs-0021",
+      "description": "Synthetic docs helper plugin 0021 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0022",
+      "source": "./plugins/scale-security-0022",
+      "description": "Synthetic security helper plugin 0022 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0023",
+      "source": "./plugins/scale-data-0023",
+      "description": "Synthetic data helper plugin 0023 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0024",
+      "source": "./plugins/scale-cloud-0024",
+      "description": "Synthetic cloud helper plugin 0024 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0025",
+      "source": "./plugins/scale-frontend-0025",
+      "description": "Synthetic frontend helper plugin 0025 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0026",
+      "source": "./plugins/scale-devops-0026",
+      "description": "Synthetic devops helper plugin 0026 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0027",
+      "source": "./plugins/scale-review-0027",
+      "description": "Synthetic review helper plugin 0027 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0028",
+      "source": "./plugins/scale-release-0028",
+      "description": "Synthetic release helper plugin 0028 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0029",
+      "source": "./plugins/scale-observability-0029",
+      "description": "Synthetic observability helper plugin 0029 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0030",
+      "source": "./plugins/scale-testing-0030",
+      "description": "Synthetic testing helper plugin 0030 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-docs-0031",
+      "source": "./plugins/scale-docs-0031",
+      "description": "Synthetic docs helper plugin 0031 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0032",
+      "source": "./plugins/scale-security-0032",
+      "description": "Synthetic security helper plugin 0032 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0033",
+      "source": "./plugins/scale-data-0033",
+      "description": "Synthetic data helper plugin 0033 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0034",
+      "source": "./plugins/scale-cloud-0034",
+      "description": "Synthetic cloud helper plugin 0034 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0035",
+      "source": "./plugins/scale-frontend-0035",
+      "description": "Synthetic frontend helper plugin 0035 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0036",
+      "source": "./plugins/scale-devops-0036",
+      "description": "Synthetic devops helper plugin 0036 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0037",
+      "source": "./plugins/scale-review-0037",
+      "description": "Synthetic review helper plugin 0037 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0038",
+      "source": "./plugins/scale-release-0038",
+      "description": "Synthetic release helper plugin 0038 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0039",
+      "source": "./plugins/scale-observability-0039",
+      "description": "Synthetic observability helper plugin 0039 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0040",
+      "source": "./plugins/scale-testing-0040",
+      "description": "Synthetic testing helper plugin 0040 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-docs-0041",
+      "source": "./plugins/scale-docs-0041",
+      "description": "Synthetic docs helper plugin 0041 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0042",
+      "source": "./plugins/scale-security-0042",
+      "description": "Synthetic security helper plugin 0042 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0043",
+      "source": "./plugins/scale-data-0043",
+      "description": "Synthetic data helper plugin 0043 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0044",
+      "source": "./plugins/scale-cloud-0044",
+      "description": "Synthetic cloud helper plugin 0044 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0045",
+      "source": "./plugins/scale-frontend-0045",
+      "description": "Synthetic frontend helper plugin 0045 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0046",
+      "source": "./plugins/scale-devops-0046",
+      "description": "Synthetic devops helper plugin 0046 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0047",
+      "source": "./plugins/scale-review-0047",
+      "description": "Synthetic review helper plugin 0047 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0048",
+      "source": "./plugins/scale-release-0048",
+      "description": "Synthetic release helper plugin 0048 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0049",
+      "source": "./plugins/scale-observability-0049",
+      "description": "Synthetic observability helper plugin 0049 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0050",
+      "source": "./plugins/scale-testing-0050",
+      "description": "Synthetic testing helper plugin 0050 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-docs-0051",
+      "source": "./plugins/scale-docs-0051",
+      "description": "Synthetic docs helper plugin 0051 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0052",
+      "source": "./plugins/scale-security-0052",
+      "description": "Synthetic security helper plugin 0052 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0053",
+      "source": "./plugins/scale-data-0053",
+      "description": "Synthetic data helper plugin 0053 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0054",
+      "source": "./plugins/scale-cloud-0054",
+      "description": "Synthetic cloud helper plugin 0054 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0055",
+      "source": "./plugins/scale-frontend-0055",
+      "description": "Synthetic frontend helper plugin 0055 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0056",
+      "source": "./plugins/scale-devops-0056",
+      "description": "Synthetic devops helper plugin 0056 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0057",
+      "source": "./plugins/scale-review-0057",
+      "description": "Synthetic review helper plugin 0057 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0058",
+      "source": "./plugins/scale-release-0058",
+      "description": "Synthetic release helper plugin 0058 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0059",
+      "source": "./plugins/scale-observability-0059",
+      "description": "Synthetic observability helper plugin 0059 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0060",
+      "source": "./plugins/scale-testing-0060",
+      "description": "Synthetic testing helper plugin 0060 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-docs-0061",
+      "source": "./plugins/scale-docs-0061",
+      "description": "Synthetic docs helper plugin 0061 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0062",
+      "source": "./plugins/scale-security-0062",
+      "description": "Synthetic security helper plugin 0062 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0063",
+      "source": "./plugins/scale-data-0063",
+      "description": "Synthetic data helper plugin 0063 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0064",
+      "source": "./plugins/scale-cloud-0064",
+      "description": "Synthetic cloud helper plugin 0064 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0065",
+      "source": "./plugins/scale-frontend-0065",
+      "description": "Synthetic frontend helper plugin 0065 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0066",
+      "source": "./plugins/scale-devops-0066",
+      "description": "Synthetic devops helper plugin 0066 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0067",
+      "source": "./plugins/scale-review-0067",
+      "description": "Synthetic review helper plugin 0067 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0068",
+      "source": "./plugins/scale-release-0068",
+      "description": "Synthetic release helper plugin 0068 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0069",
+      "source": "./plugins/scale-observability-0069",
+      "description": "Synthetic observability helper plugin 0069 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0070",
+      "source": "./plugins/scale-testing-0070",
+      "description": "Synthetic testing helper plugin 0070 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-docs-0071",
+      "source": "./plugins/scale-docs-0071",
+      "description": "Synthetic docs helper plugin 0071 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0072",
+      "source": "./plugins/scale-security-0072",
+      "description": "Synthetic security helper plugin 0072 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0073",
+      "source": "./plugins/scale-data-0073",
+      "description": "Synthetic data helper plugin 0073 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0074",
+      "source": "./plugins/scale-cloud-0074",
+      "description": "Synthetic cloud helper plugin 0074 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0075",
+      "source": "./plugins/scale-frontend-0075",
+      "description": "Synthetic frontend helper plugin 0075 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0076",
+      "source": "./plugins/scale-devops-0076",
+      "description": "Synthetic devops helper plugin 0076 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0077",
+      "source": "./plugins/scale-review-0077",
+      "description": "Synthetic review helper plugin 0077 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0078",
+      "source": "./plugins/scale-release-0078",
+      "description": "Synthetic release helper plugin 0078 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0079",
+      "source": "./plugins/scale-observability-0079",
+      "description": "Synthetic observability helper plugin 0079 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0080",
+      "source": "./plugins/scale-testing-0080",
+      "description": "Synthetic testing helper plugin 0080 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-docs-0081",
+      "source": "./plugins/scale-docs-0081",
+      "description": "Synthetic docs helper plugin 0081 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0082",
+      "source": "./plugins/scale-security-0082",
+      "description": "Synthetic security helper plugin 0082 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0083",
+      "source": "./plugins/scale-data-0083",
+      "description": "Synthetic data helper plugin 0083 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0084",
+      "source": "./plugins/scale-cloud-0084",
+      "description": "Synthetic cloud helper plugin 0084 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0085",
+      "source": "./plugins/scale-frontend-0085",
+      "description": "Synthetic frontend helper plugin 0085 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0086",
+      "source": "./plugins/scale-devops-0086",
+      "description": "Synthetic devops helper plugin 0086 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0087",
+      "source": "./plugins/scale-review-0087",
+      "description": "Synthetic review helper plugin 0087 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0088",
+      "source": "./plugins/scale-release-0088",
+      "description": "Synthetic release helper plugin 0088 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0089",
+      "source": "./plugins/scale-observability-0089",
+      "description": "Synthetic observability helper plugin 0089 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0090",
+      "source": "./plugins/scale-testing-0090",
+      "description": "Synthetic testing helper plugin 0090 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-docs-0091",
+      "source": "./plugins/scale-docs-0091",
+      "description": "Synthetic docs helper plugin 0091 for MOS repository scan scale testing. It packages one skill that explains docs conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-security-0092",
+      "source": "./plugins/scale-security-0092",
+      "description": "Synthetic security helper plugin 0092 for MOS repository scan scale testing. It packages one skill that explains security conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-data-0093",
+      "source": "./plugins/scale-data-0093",
+      "description": "Synthetic data helper plugin 0093 for MOS repository scan scale testing. It packages one skill that explains data conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-cloud-0094",
+      "source": "./plugins/scale-cloud-0094",
+      "description": "Synthetic cloud helper plugin 0094 for MOS repository scan scale testing. It packages one skill that explains cloud conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-frontend-0095",
+      "source": "./plugins/scale-frontend-0095",
+      "description": "Synthetic frontend helper plugin 0095 for MOS repository scan scale testing. It packages one skill that explains frontend conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-devops-0096",
+      "source": "./plugins/scale-devops-0096",
+      "description": "Synthetic devops helper plugin 0096 for MOS repository scan scale testing. It packages one skill that explains devops conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-review-0097",
+      "source": "./plugins/scale-review-0097",
+      "description": "Synthetic review helper plugin 0097 for MOS repository scan scale testing. It packages one skill that explains review conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-release-0098",
+      "source": "./plugins/scale-release-0098",
+      "description": "Synthetic release helper plugin 0098 for MOS repository scan scale testing. It packages one skill that explains release conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-observability-0099",
+      "source": "./plugins/scale-observability-0099",
+      "description": "Synthetic observability helper plugin 0099 for MOS repository scan scale testing. It packages one skill that explains observability conventions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "scale-testing-0100",
+      "source": "./plugins/scale-testing-0100",
+      "description": "Synthetic testing helper plugin 0100 for MOS repository scan scale testing. It packages one skill that explains testing conventions.",
+      "version": "1.0.0"
+    }
+  ]
+}
